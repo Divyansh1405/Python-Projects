@@ -1,1 +1,1 @@
-This is Python code for NetFlix Anlysis
+This is Python code for NetFlix Movie Anlysis
