@@ -1,1 +1,1 @@
-This is Python code for NetFlix Movie Anlysis
+This is Python code for analyzing the NetFlix Movies. There are several graphs.
